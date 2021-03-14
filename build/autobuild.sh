@@ -5,5 +5,5 @@
 
 watchmedo shell-command \
   --wait \
-  --command='bash build/build.sh && manubot webpage' \
+  --command='bash BUILD_DOCX=true build/build.sh && manubot webpage' \
   content
