@@ -38,9 +38,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://regrebneuel.github.io/sem_paper/" />
   <meta name="citation_pdf_url" content="https://regrebneuel.github.io/sem_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://regrebneuel.github.io/sem_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://regrebneuel.github.io/sem_paper/v/81ddf878738e95293bde0904c22cb1d6988752ea/" />
-  <meta name="manubot_html_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/81ddf878738e95293bde0904c22cb1d6988752ea/" />
-  <meta name="manubot_pdf_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/81ddf878738e95293bde0904c22cb1d6988752ea/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://regrebneuel.github.io/sem_paper/v/f3f00c41a5bc6ba3f0b3a8ca371cfa0d6c82641f/" />
+  <meta name="manubot_html_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/f3f00c41a5bc6ba3f0b3a8ca371cfa0d6c82641f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/f3f00c41a5bc6ba3f0b3a8ca371cfa0d6c82641f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://regrebneuel.github.io/sem_paper/v/81ddf878738e95293bde0904c22cb1d6988752ea/))
+([permalink](https://regrebneuel.github.io/sem_paper/v/f3f00c41a5bc6ba3f0b3a8ca371cfa0d6c82641f/))
 was automatically generated
-from [regrebneuel/sem_paper@81ddf87](https://github.com/regrebneuel/sem_paper/tree/81ddf878738e95293bde0904c22cb1d6988752ea)
+from [regrebneuel/sem_paper@f3f00c4](https://github.com/regrebneuel/sem_paper/tree/f3f00c41a5bc6ba3f0b3a8ca371cfa0d6c82641f)
 on March 14, 2021.
 </em></small>
 
