@@ -4,23 +4,17 @@ keywords:
   - markdown
   - publishing
   - manubot
-lang: en-US
+lang: de-CH
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+  - github: regrebneuel 
+    name: Gaby Leuenberger 
+    initials: GL 
+    twitter: @regrebneuel 
+    email: gabriela.leuenberger@stud.fhgr.ch 
+  - github: fluecksandra 
+    name: Sandra Flückiger
+    initials: SF 
+    email: sandra.flueckiger.stud.fhgr.ch
+  - github: xxxjaegerxxx
+    name: Florian Riedmann
+    initials: FR
