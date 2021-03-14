@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Data Literacy
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,19 @@ keywords:
 lang: en-US
 date-meta: '2021-03-14'
 author-meta:
-- John Doe
-- Jane Roe
+- Gaby Leuenberger
+- Sandra Flückiger
+- Florian Riedmann
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Data Literacy" />
+  <meta name="citation_title" content="Data Literacy" />
+  <meta property="og:title" content="Data Literacy" />
+  <meta property="twitter:title" content="Data Literacy" />
   <meta name="dc.date" content="2021-03-14" />
   <meta name="citation_publication_date" content="2021-03-14" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +28,19 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Gaby Leuenberger" />
+  <meta name="twitter:creator" content="@regrebneuel" />
+  <meta name="citation_author" content="Sandra Flückiger" />
+  <meta name="citation_author" content="Florian Riedmann" />
   <link rel="canonical" href="https://regrebneuel.github.io/sem_paper/" />
   <meta property="og:url" content="https://regrebneuel.github.io/sem_paper/" />
   <meta property="twitter:url" content="https://regrebneuel.github.io/sem_paper/" />
   <meta name="citation_fulltext_html_url" content="https://regrebneuel.github.io/sem_paper/" />
   <meta name="citation_pdf_url" content="https://regrebneuel.github.io/sem_paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://regrebneuel.github.io/sem_paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://regrebneuel.github.io/sem_paper/v/da2fc2b41db43188a98e54d324d85f7ae879db86/" />
-  <meta name="manubot_html_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/da2fc2b41db43188a98e54d324d85f7ae879db86/" />
-  <meta name="manubot_pdf_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/da2fc2b41db43188a98e54d324d85f7ae879db86/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://regrebneuel.github.io/sem_paper/v/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00/" />
+  <meta name="manubot_html_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00/" />
+  <meta name="manubot_pdf_url_versioned" content="https://regrebneuel.github.io/sem_paper/v/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://regrebneuel.github.io/sem_paper/v/da2fc2b41db43188a98e54d324d85f7ae879db86/))
+([permalink](https://regrebneuel.github.io/sem_paper/v/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00/))
 was automatically generated
-from [regrebneuel/sem_paper@da2fc2b](https://github.com/regrebneuel/sem_paper/tree/da2fc2b41db43188a98e54d324d85f7ae879db86)
+from [regrebneuel/sem_paper@ab70ab2](https://github.com/regrebneuel/sem_paper/tree/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00)
 on March 14, 2021.
 </em></small>
 
@@ -75,25 +72,24 @@ on March 14, 2021.
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Gaby Leuenberger**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [regrebneuel](https://github.com/regrebneuel)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [regrebneuel](https://twitter.com/regrebneuel)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Sandra Flückiger**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [fluecksandra](https://github.com/fluecksandra)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Florian Riedmann**<br>
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [xxxjaegerxxx](https://github.com/xxxjaegerxxx)<br>
+  <small>
   </small>
 
 
