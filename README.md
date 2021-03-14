@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/regrebneuel/sem_paper/tree/gh-pages) branch hosts the contents of this directory at <https://regrebneuel.github.io/sem_paper/>.
-The permalink for this webpage version is <https://regrebneuel.github.io/sem_paper/v/da2fc2b41db43188a98e54d324d85f7ae879db86/>.
+The permalink for this webpage version is <https://regrebneuel.github.io/sem_paper/v/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://regrebneuel.github.io/sem_paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`da2fc2b41db43188a98e54d324d85f7ae879db86`](https://github.com/regrebneuel/sem_paper/commit/da2fc2b41db43188a98e54d324d85f7ae879db86).
+[`ab70ab21a96201e5c5e8c7df79ca1e82951e3a00`](https://github.com/regrebneuel/sem_paper/commit/ab70ab21a96201e5c5e8c7df79ca1e82951e3a00).
